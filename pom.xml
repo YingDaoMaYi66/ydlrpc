@@ -14,7 +14,7 @@
         <module>yrpc-framework/yrpc-common</module>
         <module>yrpc-framework/yrpc-core</module>
         <module>yrpc-manager</module>
-        <module>yrpc-demo/yrpc-client-demo</module>
+        <module>yrpc-demo/yrpc-consumer-demo</module>
         <module>yrpc-demo/yrpc-provider-demo</module>
         <module>yrpc-demo/yrpc-api</module>
     </modules>
